@@ -3,7 +3,7 @@ import random
 d = {'Nanny':'유모', 'Offend':'기분을 상하게 하다', 'Offended':'기분이 상하다', 'Arrogant':'오만한', 'Distracted':'산만해진', 
      'Narrow':'좁은', 'anxious':'불안해하는', 'Fear':'두려움', 'to sleep through':'안깨고 자다', 'Nervous flier':'비행 공포증'
      , 'To stumble':'넘어지다, 넘어질뻔하다', 'Lavatory':'화장실', 'Eastbound':'동쪽으로 향하는', 'headed to':'향했다'
-     , 'Domestic':'국내의', 'To look for':'무언가를 찾다', 'Fingerprint':'지문', 'Mix-up':'혼동'}
+     , 'Domestic':'국내의', 'To look for':'무언가를 찾다', 'Fingerprint':'지문', 'Mix-up':'혼동', 'Belongings':'재산'}
 
 d1 = {v:k for k,v in d.items()} # 한국어를 영어로
 
